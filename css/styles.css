@@ -162,7 +162,7 @@ video{
 
 /* ignore page styling */
 .image1 img{
-    width: 600px;
+    width: 100%;
 }
 .form{
     display: flex;
